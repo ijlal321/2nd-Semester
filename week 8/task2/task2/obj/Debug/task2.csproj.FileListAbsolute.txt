@@ -1,0 +1,7 @@
+D:\UET BSCS\OOP\week 8\task2\task2\bin\Debug\task2.exe.config
+D:\UET BSCS\OOP\week 8\task2\task2\bin\Debug\task2.exe
+D:\UET BSCS\OOP\week 8\task2\task2\bin\Debug\task2.pdb
+D:\UET BSCS\OOP\week 8\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\UET BSCS\OOP\week 8\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\UET BSCS\OOP\week 8\task2\task2\obj\Debug\task2.exe
+D:\UET BSCS\OOP\week 8\task2\task2\obj\Debug\task2.pdb
