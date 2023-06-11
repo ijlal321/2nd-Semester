@@ -1,0 +1,7 @@
+D:\UET BSCS\OOP\week 6\Lab\pointGame\pointGame\bin\Debug\pointGame.exe.config
+D:\UET BSCS\OOP\week 6\Lab\pointGame\pointGame\bin\Debug\pointGame.exe
+D:\UET BSCS\OOP\week 6\Lab\pointGame\pointGame\bin\Debug\pointGame.pdb
+D:\UET BSCS\OOP\week 6\Lab\pointGame\pointGame\obj\Debug\pointGame.csproj.AssemblyReference.cache
+D:\UET BSCS\OOP\week 6\Lab\pointGame\pointGame\obj\Debug\pointGame.csproj.CoreCompileInputs.cache
+D:\UET BSCS\OOP\week 6\Lab\pointGame\pointGame\obj\Debug\pointGame.exe
+D:\UET BSCS\OOP\week 6\Lab\pointGame\pointGame\obj\Debug\pointGame.pdb
