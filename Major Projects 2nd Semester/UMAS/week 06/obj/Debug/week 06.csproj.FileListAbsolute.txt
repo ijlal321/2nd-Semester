@@ -1,0 +1,14 @@
+D:\OOPS\week 06\week 06\bin\Debug\week 06.exe.config
+D:\OOPS\week 06\week 06\bin\Debug\week 06.exe
+D:\OOPS\week 06\week 06\bin\Debug\week 06.pdb
+D:\OOPS\week 06\week 06\obj\Debug\week 06.csproj.AssemblyReference.cache
+D:\OOPS\week 06\week 06\obj\Debug\week 06.csproj.CoreCompileInputs.cache
+D:\OOPS\week 06\week 06\obj\Debug\week 06.exe
+D:\OOPS\week 06\week 06\obj\Debug\week 06.pdb
+D:\OOPS\UMAS\week 06\bin\Debug\week 06.exe.config
+D:\OOPS\UMAS\week 06\bin\Debug\week 06.exe
+D:\OOPS\UMAS\week 06\bin\Debug\week 06.pdb
+D:\OOPS\UMAS\week 06\obj\Debug\week 06.csproj.AssemblyReference.cache
+D:\OOPS\UMAS\week 06\obj\Debug\week 06.csproj.CoreCompileInputs.cache
+D:\OOPS\UMAS\week 06\obj\Debug\week 06.exe
+D:\OOPS\UMAS\week 06\obj\Debug\week 06.pdb
