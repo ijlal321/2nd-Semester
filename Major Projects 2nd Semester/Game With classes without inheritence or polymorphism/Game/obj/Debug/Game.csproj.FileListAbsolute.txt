@@ -1,0 +1,40 @@
+D:\UET BSCS\OOP\week 1\PD\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\UET BSCS\OOP\week 1\PD\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\UET BSCS\OOP\week 1\PD\Game\Game\bin\Debug\Game.exe.config
+D:\UET BSCS\OOP\week 1\PD\Game\Game\bin\Debug\Game.exe
+D:\UET BSCS\OOP\week 1\PD\Game\Game\bin\Debug\Game.pdb
+D:\UET BSCS\OOP\week 1\PD\Game\Game\bin\Debug\EZInput.dll
+D:\UET BSCS\OOP\week 1\PD\Game\Game\bin\Debug\EZInput.xml
+D:\UET BSCS\OOP\week 1\PD\Game\Game\obj\Debug\Game.csproj.CopyComplete
+D:\UET BSCS\OOP\week 1\PD\Game\Game\obj\Debug\Game.exe
+D:\UET BSCS\OOP\week 1\PD\Game\Game\obj\Debug\Game.pdb
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\bin\Debug\Game.exe.config
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\bin\Debug\Game.exe
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\bin\Debug\Game.pdb
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\bin\Debug\EZInput.dll
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\bin\Debug\EZInput.xml
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\obj\Debug\Game.csproj.CopyComplete
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\obj\Debug\Game.exe
+D:\UET BSCS\OOP\week 2\Game - Copy\Game\obj\Debug\Game.pdb
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\bin\Debug\Game.exe.config
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\bin\Debug\Game.exe
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\bin\Debug\Game.pdb
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\bin\Debug\EZInput.dll
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\bin\Debug\EZInput.xml
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\obj\Debug\Game.csproj.CopyComplete
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\obj\Debug\Game.exe
+D:\UET BSCS\OOP\week 3\pd\Game - OOP 1 class\Game\obj\Debug\Game.pdb
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\bin\Debug\Game.exe.config
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\bin\Debug\Game.exe
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\bin\Debug\Game.pdb
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\bin\Debug\EZInput.dll
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\bin\Debug\EZInput.xml
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\obj\Debug\Game.csproj.CopyComplete
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\obj\Debug\Game.exe
+D:\UET BSCS\OOP\week 4\pd\Game - OOP 1 class\Game\obj\Debug\Game.pdb
